@@ -1,2 +1,3 @@
-### Chemical Engineer /Data Scientist / AI-Automation
-17.png
+### Chemical Engineer / Data Scientist / AI-Automation
+
+![Banner](./17.png)
