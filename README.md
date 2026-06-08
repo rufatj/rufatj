@@ -1,4 +1,5 @@
 ### Chemical Engineer / Data Scientist / AI-Automation
 
+![Profile Banner](./assets/1.gif)
 
-![Banner](./19.png)
+
